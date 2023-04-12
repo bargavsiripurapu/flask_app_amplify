@@ -1,1 +1,1 @@
-# flask_app_amplify
+# serverless_example
